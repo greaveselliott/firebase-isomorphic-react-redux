@@ -1,9 +1,0 @@
-@import 'base';
-
-.container {
-  min-width: 300px;
-  margin-bottom: 2rem;
-}
-.empty {
-  @extend .flex-row-center;
-}
